@@ -1,6 +1,6 @@
 # Site — Captação de Consultores
 
-Landing page moderna, organizada e responsiva para captar novos consultores da Catani Store.
+Landing page moderna, organizada e responsiva para captar novos consultores.
 
 ## Recursos
 
